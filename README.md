@@ -1,4 +1,5 @@
 # Fundamentos de HTML
+![HTML](https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/html.png)
 
 ## ¿Qué es HTML?
 HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. <br>
