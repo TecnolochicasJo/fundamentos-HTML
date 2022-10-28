@@ -8,3 +8,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 
 ## [ Link al código](https://github.com/TecnolochicasJo/fundamentos-HTML/blob/main/index.html)
 ![Código]( https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/codigoEtiquetasHTML.PNG)
+
+## Para saber mas sobre HTML puedes visitar los siguientes links
+- [Etiquetas y elemento HTML](https://www.w3schools.com/TAGS/default.asp)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
