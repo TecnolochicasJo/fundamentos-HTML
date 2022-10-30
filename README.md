@@ -9,6 +9,70 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 ## [ Link al código](https://github.com/TecnolochicasJo/fundamentos-HTML/blob/main/index.html)
 ![Código]( https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/codigoEtiquetasHTML.PNG)
 
+## Etiquetas que falto por ver en la sesión Fundamentos de HTML del dia Sabado 29 de Octubre
+- **Casillas de verificación:** Funcionan para elegir mas de una opción. Ejemplo: <br> 
+```
+    <p>¿Qué tipo de musica canta tu artista favorito?</p>
+    <label for="k-pop">
+        <input type="checkbox" id="k-pop" class="k-pop" name="tipoMusica" checked>K-pop
+    </label>
+    <br>
+    <label for="Rock">
+        <input type="checkbox" id="rock" class="rock" name="tipoMusica" >Rock
+    </label>
+    <br>
+    <label for="mariachi">
+        <input type="checkbox" id="mariachi" class="mariachi" name="tipoMusica">Mariachi
+    </label>
+    <br>
+    <label for="banda">
+        <input type="checkbox" id="banda" class="banda" name="tipoMusica">Banda
+    </label>
+    <br>
+    <label for="rap">
+        <input type="checkbox" id="rap" class="rap" name="tipoMusica" >Rap
+    </label>
+    <br>
+    <label for="pop">
+        <input type="checkbox" id="pop" class="pop" name="tipoMusica" >Pop
+    </label>
+    <br>
+```
+
+- **Etiqueta ```<div></div>```** Sirve para crear secciones o agrupar contenidos. <br> Por el momento no se viasualizara nada en la pagina, <br>
+se prodra ver su función cuando se haga uso de los estilos con CSS.  Ejemplo: <b>
+```
+    <div>
+        <p>Cosas que los integrantes de BTS aman</p>
+        <ul>
+            <li>Tacos</li>
+            <li>Tequila</li>
+            <li>Chicas</li>
+            <li>Gatos</li>
+            <li>Perros</li>
+            <li>Bailar</li>
+            <li>Bromas</li>
+        </ul>
+    </div>
+```
+
+- **Etiqueta ```<footer></footer>```** Es para el piede de pagina. En el se coloca todo el cotenido final, pueden ser links a redes sociales, <br>
+dirección/ubicación, derechos de autor de la pagina, contacto, etc. Ejemplo: <b>
+
+```
+    <footer>
+        <!-- etiqueta <small> para letras pequeñas -->
+        <p><small>Derechos de autor - <a href="https://tecnolochicas.mx/" target="_blank">tecnolochicas.mx</a></small></p>
+        <p><small>Pagina diseñada por Luz</small></p>
+    </footer>
+```
+
+- **Etiqueta ```<small></small>```** Es para hacer más pequeña la letra. Ejemplo: <br>
+
+```
+    <p><small>Pagina diseñada por Luz</small></p>
+```
+
 ## Para saber mas sobre HTML puedes visitar los siguientes links
 - [Etiquetas y elemento HTML](https://www.w3schools.com/TAGS/default.asp)
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
