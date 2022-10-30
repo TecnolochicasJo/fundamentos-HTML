@@ -6,7 +6,7 @@ HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) e
 Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías <br>
 para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
 
-## [ Link al código](https://github.com/TecnolochicasJo/fundamentos-HTML/blob/main/index.html)
+## [Soy el Link al código dame clik aquí!](https://github.com/TecnolochicasJo/fundamentos-HTML/blob/main/index.html)
 ![Código]( https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/codigoEtiquetasHTML.PNG)
 
 ## Etiquetas que falto por ver en la sesión Fundamentos de HTML del dia Sabado 29 de Octubre
