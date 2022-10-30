@@ -10,8 +10,8 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 ![Código]( https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/codigoEtiquetasHTML.PNG)
 
 ## Etiquetas que falto por ver en la sesión Fundamentos de HTML del dia Sabado 29 de Octubre
-- **Casillas de verificación:** Funcionan para elegir mas de una opción.<br> Para este caso lo unico que cambia es el tipo del input <br>
-    es decir, ya **no** sera ```<input type="text">``` sino que cambiara el tipo **text** por **checkbox** quedando de la siguiente manera <br>
+- **Casillas de verificación:** Funcionan para elegir mas de una opción.<br> Para este caso lo unico que cambia es el tipo del input 
+    es decir, ya **no** sera ```<input type="text">``` <br> sino que cambiara el tipo **text** por **checkbox** quedando de la siguiente manera 
     ```<input type="checkbox">``` y porsupuesto se agregaran mas atributos. <br>
     Ejemplo: 
 ```
@@ -42,7 +42,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
     <br>
 ```
 
-- **Etiqueta ```<div></div>```** Sirve para crear secciones o agrupar contenidos. <br> Por el momento no se visualizara nada en la pagina, <br>
+- **Etiqueta ```<div></div>```** Sirve para crear secciones o agrupar contenidos. Por el momento no se visualizara nada en la pagina, <br>
     se podrá ver su función cuando se haga uso de los estilos con CSS. <br>   
     Ejemplo: 
 ```
@@ -60,7 +60,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
     </div>
 ```
 
-- **Etiqueta ```<footer></footer>```** Es para el pie de de página. En el se coloca todo el contenido final, pueden ser links a redes sociales, <br> dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
+- **Etiqueta ```<footer></footer>```** Es para el pie de de página. En el se coloca todo el contenido final, pueden ser links a redes sociales,  dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
 Ejemplo:
 
 ```
