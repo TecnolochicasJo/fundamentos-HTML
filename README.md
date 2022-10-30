@@ -14,7 +14,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
     es decir, ya **no** sera ```<input type="text">``` <br> sino que cambiara el tipo **text** por **checkbox** quedando de la siguiente manera 
     ```<input type="checkbox">``` y porsupuesto se agregaran mas atributos. <br>
     Ejemplo: 
-```
+```html
     <p>¿Qué tipo de musica canta tu artista favorito?</p>
     <label for="k-pop">
         <input type="checkbox" id="k-pop" class="k-pop" name="tipoMusica" checked>K-pop
@@ -45,7 +45,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 - **Etiqueta ```<div></div>```** Sirve para crear secciones o agrupar contenidos. Por el momento no se visualizara nada en la pagina, <br>
     se podrá ver su función cuando se haga uso de los estilos con CSS. <br>   
     Ejemplo: 
-```
+```html
     <div>
         <p>Cosas que los integrantes de BTS aman</p>
         <ul>
@@ -63,7 +63,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 - **Etiqueta ```<footer></footer>```** Es para el pie de de página. En el se coloca todo el contenido final, pueden ser links a redes sociales,  dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
 Ejemplo:
 
-```
+```html
     <footer>
         <!-- etiqueta <small> para letras pequeñas -->
         <p><small>Derechos de autor - <a href="https://tecnolochicas.mx/" target="_blank">tecnolochicas.mx</a></small></p>
