@@ -60,7 +60,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
     </div>
 ```
 
-- **Etiqueta ```<footer></footer>```** Es para el pie de de página. En el se coloca todo el contenido final, pueden ser links a redes sociales,  dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
+- **Etiqueta ```<footer></footer>```** Es para el pie de página. En el se coloca todo el contenido final, pueden ser links a redes sociales,  dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
 Ejemplo:
 
 ```html
