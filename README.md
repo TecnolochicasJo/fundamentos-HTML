@@ -43,6 +43,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 ```
 
 <br>
+
 ![checkbox](https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/checkbox.PNG)
 
 - **Etiqueta ```<div></div>```** Sirve para crear secciones o agrupar contenidos. Por el momento no se visualizara nada en la pagina,
@@ -64,6 +65,7 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 ```
 
 <br>
+
 En este caso solo se muestra el contendido que esta dentro del **div**<br>
 ![div](https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/div.PNG)
 
@@ -78,6 +80,7 @@ Ejemplo:
     </footer>
 ```
 <br>
+
 ![footer](https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/footer.PNG)
 
 - **Etiqueta ```<small></small>```** Es para hacer más pequeña la letra. <br> Ejemplo: 
