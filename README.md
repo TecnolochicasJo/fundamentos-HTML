@@ -66,7 +66,8 @@ para describir la apariencia/presentación de una página web (CSS) o la funcion
 
 <br>
 
-En este caso solo se muestra el contendido que esta dentro del **div**<br>
+En este caso solo se muestra el contendido que esta dentro del **div** <br><br>
+
 ![div](https://raw.githubusercontent.com/TecnolochicasJo/fundamentos-HTML/main/imagenes/div.PNG)
 
 - **Etiqueta ```<footer></footer>```** Es para el pie de página. En el se coloca todo el contenido final, pueden ser links a redes sociales,  dirección/ubicación, derechos de autor de la página, contacto, etc. <br>  
